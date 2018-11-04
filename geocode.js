@@ -23,7 +23,7 @@ const geoCodeGenerator = (address) =>{
       }
     })
   })
-}
+};
 
 const weatherInfo = (lat,long)=>{
   request({
