@@ -1,4 +1,4 @@
-# Weather-App
+ # Weather-App
  A weather app completely based on javascript , node.js. Works on command-line/bash...
  
  Weather Information:
@@ -9,10 +9,10 @@
  5. Summary
  
  Example :
- Input
+ Input -
  node index.js -a "param puri uttam nagar new delhi"
  
- Output
+ Output -
  Address : Uttam Nagar, New Delhi, West Delhi, Delhi, India
 
  Current Temperature: 70.73 F / 21.52 C
@@ -33,6 +33,6 @@
  API's Used:
  
  1. https://api.mapbox.com/geocoding/v5/mapbox.places/Los%20Angeles.json?access_token=your-access-token
- 2. https://api.darksky.net/forecast/
+ 2. https://api.darksky.net/forecast/[key]/[latitude],[longitude]
  
  * Web Page coming soon..............
